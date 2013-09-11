@@ -18,9 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-ProfilerRails::Profiler::prof("import") do
-  # your code block to profiling performance
-end
+    ProfilerRails::Profiler::prof("import") do
+      # your code block to profiling performance
+    end
 
 ## Output
 You can find graph, flat and stack output in HTML formatted reports on the "/tmp/performance" folder.
