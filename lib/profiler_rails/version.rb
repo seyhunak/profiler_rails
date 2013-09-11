@@ -1,0 +1,3 @@
+module ProfilerRails
+  VERSION = "0.0.1"
+end
